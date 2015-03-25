@@ -1,0 +1,5 @@
+Light Control (Collider Manipulation)
+https://www.dropbox.com/s/wqd782q2xrqrglt/Light%20Control.avi?dl=0
+
+Tested: OnCollisionEnter, OnCollisionStay, OnCollisionExit, OnTriggerEnter, OnTriggerStay, OnTriggerExit can be used without
+rigidbody component.
